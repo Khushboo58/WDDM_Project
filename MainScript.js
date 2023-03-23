@@ -60,7 +60,7 @@ console.log("the incremented number: " + incrementNum);
 //alert("Your name is " + name);
 console.log('This is a test log\nnext line!');
 
-const myCar = new Car("Mini", "Cooper", "2023", "Red");
+const myCar = new Car("Honda", "City", "2021", "White");
 console.log("MY CAR\nMAKE: " + myCar.make + "\nMODEL: " + myCar.model + "\nYEAR: " + myCar.year + "\nCOLOR: " + myCar.color);
 
 myCar.changeColor("Black");
